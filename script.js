@@ -3,9 +3,6 @@ document.querySelector('.menu-boton').addEventListener('click', () =>  {
 }); 
 
 ScrollReveal().reveal('.showcase');
-ScrollReveal().reveal('.news-cards'. {delay 550 });
-ScrollReveal().reveal('.cards-banner-one'. {delay 550 });
-ScrollReveal().reveal('.cards-banner-two'. {delay 550 });
-ScrollReveal().reveal('.social'. {delay 550 });
-ScrollReveal().reveal('.footer-links'. {delay 550 });
-ScrollReveal().reveal('.footer'. {delay 550 });
+ScrollReveal().reveal('.news-cards', {delay: 550 });
+ScrollReveal().reveal('.cards-banner-one', {delay: 550 });
+ScrollReveal().reveal('.cards-banner-two', {delay: 550 });
