@@ -189,3 +189,27 @@ hr {
 .links a li {
   font-size: 3rem;
 }
+
+/*Links adicionales*/
+.footer-links {
+  background: #c23616;
+  color: whitesmoke;
+  font-size: 112px;
+  padding: 35px 0;
+}
+
+.footer-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.footer-container ul {
+  margin: 0 auto;
+}
+
+.footer-links {
+  line-height: 2.8;
+}
