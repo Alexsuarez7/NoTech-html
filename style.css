@@ -142,3 +142,13 @@ hr {
   background: url('./img/tech-red.jpg');
   margin-bottom: 40px;
 }
+
+.cards-banner-one .content {
+  width: 40%;
+  padding: 90px 0 0 30px;
+  color: whitesmoke;
+}
+
+.cards-banner-one p, .cards-banner-one h3 {
+  padding: 10px 0 20px 0;
+}
