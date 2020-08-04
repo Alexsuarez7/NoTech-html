@@ -77,3 +77,24 @@ ul {
   justify-content: flex-end;
   /*Con esto se ajusto el texto hacia el centro*/
 }
+
+.boton{
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  font-weight: bold;
+  padding: 10px 20px;
+  background: #222f3e;
+  color: whitesmoke;
+  font-size: 15px;
+  border: 1px solid white;
+  margin: 10px 0;
+}
+
+.boton:hover {
+  opacity: .7;
+}
+
+.showcase h2, .showcase p {
+  margin-bottom: 10px;
+}
