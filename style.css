@@ -103,3 +103,14 @@ hr {
 .showcase h2, .showcase p {
   margin-bottom: 10px;
 }
+
+/*Cartas de Noticias*/
+.news-cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.news-cards img {
+  width: 100%;
+  height: 180px;
+}
