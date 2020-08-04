@@ -58,3 +58,10 @@ ul {
   flex: 1;
   margin-left: 20px;
 }
+
+/*Escaparate o ShowCase*/
+.showcase {
+  width: 100%;
+  height: 550px;
+  background: url('./img/showcase2.jpg');
+}
